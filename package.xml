@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>template</name>
+  <version>1.0.0</version>
+  <description>Project template for the computer vision classes</description>
+
+  <maintainer email="safin.ramil@it.kfu.ru">Ramil Safin</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>roscpp</depend>
+
+  <depend>roslib</depend>
+
+  <depend>cv_bridge</depend>
+  <depend>sensor_msgs</depend>
+
+  <export/>
+
+</package>
