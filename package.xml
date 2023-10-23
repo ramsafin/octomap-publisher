@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>template</name>
+  <name>octomap_publisher</name>
   <version>1.0.0</version>
-  <description>Project template for the computer vision classes</description>
+  <description>OctoMap Publisher</description>
 
   <maintainer email="safin.ramil@it.kfu.ru">Ramil Safin</maintainer>
 
