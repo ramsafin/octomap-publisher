@@ -19,3 +19,4 @@ rosrun octomap_publisher static_octomap_publisher
 ```
 
 For visualization in RViz use MarkerArray on `occupied_cells_vis_array` topic.
+Occupancy grid is published in `projected_map` topic.
